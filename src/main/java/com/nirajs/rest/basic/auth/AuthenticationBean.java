@@ -1,4 +1,4 @@
-package com.nirajs.rest.webservices.restfulwebservices.basic.auth;
+package com.nirajs.rest.basic.auth;
 
 import lombok.Data;
 

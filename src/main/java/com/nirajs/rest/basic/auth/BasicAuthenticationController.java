@@ -1,4 +1,4 @@
-package com.nirajs.rest.webservices.restfulwebservices.basic.auth;
+package com.nirajs.rest.basic.auth;
 
 
 import org.springframework.web.bind.annotation.CrossOrigin;
